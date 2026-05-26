@@ -18,7 +18,7 @@
       "iconURL": "https://raw.githubusercontent.com/dozhdevik/whitegram/main/icon.png",
       "tintColor": "#55a7e3",
       "size": 159606444
-    }
+    },
 	{
       "name": "StikDebug",
       "bundleIdentifier": "com.stik.stikdebug",
@@ -28,7 +28,7 @@
       "iconURL": "https://github.com/StephenDev0/StikDebug/blob/main/assets/StikJIT.png?raw=true",
       "tintColor": "#3B86F7",
       "size": 11996559
-	}
+	},
 	{
 	  "name": "EnsWilde",
       "bundleIdentifier": "com.yangjiii.EnsWilde",
