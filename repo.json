@@ -29,6 +29,7 @@
       "tintColor": "#3B86F7",
       "size": 11996559
 	}
+	{
 	  "name": "EnsWilde",
       "bundleIdentifier": "com.yangjiii.EnsWilde",
       "developerName": "yangjiii",
@@ -38,5 +39,6 @@
       "iconURL": "https://github.com/dozhdevik/iwonder-repo/blob/main/enswilde.png?raw=true",
       "tintColor": "#404040",
       "size": 15085744
+	} 
   ]
 }
