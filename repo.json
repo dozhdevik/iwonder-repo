@@ -1,0 +1,42 @@
+{
+  "name": "iWonder Repo",
+  "identifier": "torg.iwndrer.repo",
+  "subtitle": "Репозиторий от iwndrer.t.me",
+  "description": "ъ",
+  "iconURL": "https://raw.githubusercontent.com/dozhdevik/iwonder-repo/main/icon.png",
+  "website": "https://t.me/iwndrer",
+  "apps": [
+    {
+      "name": "Whitegram",
+      "bundleIdentifier": "the.whitegram.app",
+      "developerName": "heypain",
+      "version": "5.1",
+      "versionDate": "2026-05-26",
+      "versionDescription": "https://t.me/whitegramrelease/8",
+      "downloadURL": "https://github.com/dozhdevik/whitegram/releases/download/release/wg5.1.ipa",
+      "localizedDescription": "Модифицированная версия клиента Telegram.",
+      "iconURL": "https://raw.githubusercontent.com/dozhdevik/whitegram/main/icon.png",
+      "tintColor": "#55a7e3",
+      "size": 159606444
+    }
+	{
+      "name": "StikDebug",
+      "bundleIdentifier": "com.stik.stikdebug",
+      "developerName": "StephenDev0",
+      "subtitle": "Активатор JIT прямо на устройстве и мультитул.",
+      "localizedDescription": "Активатор JIT прямо на устройстве и мультитул для iOS 17.4+ с помощью idevice.  Внимание: нужен LocalDevVPN, не может быть использован внутри LiveContainer для включения JIT в том же котейнере.",
+      "iconURL": "https://github.com/StephenDev0/StikDebug/blob/main/assets/StikJIT.png?raw=true",
+      "tintColor": "#3B86F7",
+      "size": 11996559
+	}
+	  "name": "EnsWilde",
+      "bundleIdentifier": "com.yangjiii.EnsWilde",
+      "developerName": "yangjiii",
+      "version": "3.1.3",
+      "downloadURL": "https://github.com/dozhdevik/iwonder-repo/releases/download/enswilde/EnsWilde.3.1.3.ipa",
+      "localizedDescription": "Модифицированная версия клиента Telegram.",
+      "iconURL": "https://github.com/dozhdevik/iwonder-repo/blob/main/enswilde.png?raw=true",
+      "tintColor": "#404040",
+      "size": 15085744
+  ]
+}
