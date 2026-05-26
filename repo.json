@@ -19,26 +19,32 @@
       "tintColor": "#55a7e3",
       "size": 159606444
     },
-	{
+    {
       "name": "StikDebug",
       "bundleIdentifier": "com.stik.stikdebug",
       "developerName": "StephenDev0",
       "subtitle": "Активатор JIT прямо на устройстве и мультитул.",
-      "localizedDescription": "Активатор JIT прямо на устройстве и мультитул для iOS 17.4+ с помощью idevice.  Внимание: нужен LocalDevVPN, не может быть использован внутри LiveContainer для включения JIT в том же котейнере.",
-      "iconURL": "https://github.com/StephenDev0/StikDebug/blob/main/assets/StikJIT.png?raw=true",
+      "version": "1.0",
+      "versionDate": "2026-05-26",
+      "versionDescription": "Релиз",
+      "downloadURL": "https://github.com/StephenDev0/StikDebug/releases/download/3.1.3/StikDebug-3.1.3.ipa",
+      "localizedDescription": "Активатор JIT прямо на устройстве и мультитул для iOS 17.4+ с помощью idevice. Внимание: нужен LocalDevVPN, не может быть использован внутри LiveContainer для включения JIT в том же контейнере.",
+      "iconURL": "https://raw.githubusercontent.com/StephenDev0/StikDebug/main/assets/StikJIT.png",
       "tintColor": "#3B86F7",
       "size": 11996559
-	},
-	{
-	  "name": "EnsWilde",
+    },
+    {
+      "name": "EnsWilde",
       "bundleIdentifier": "com.yangjiii.EnsWilde",
       "developerName": "yangjiii",
       "version": "3.1.3",
+      "versionDate": "2026-05-26",
+      "versionDescription": "Обновление EnsWilde",
       "downloadURL": "https://github.com/dozhdevik/iwonder-repo/releases/download/enswilde/EnsWilde.3.1.3.ipa",
-      "localizedDescription": "Модифицированная версия клиента Telegram.",
-      "iconURL": "https://github.com/dozhdevik/iwonder-repo/blob/main/enswilde.png?raw=true",
+      "localizedDescription": "Редактор mobilegestalt.",
+      "iconURL": "https://raw.githubusercontent.com/dozhdevik/iwonder-repo/main/enswilde.png",
       "tintColor": "#404040",
       "size": 15085744
-	} 
+    }
   ]
 }
