@@ -46,7 +46,7 @@
       "tintColor": "#404040",
       "size": 15085744
     },
-        {
+    {
       "name": "Swiftgram",
       "bundleIdentifier": "app.swiftgram.ios",
       "developerName": "Akentech Ltd",
@@ -59,6 +59,21 @@
       "iconURL": "https://raw.githubusercontent.com/dozhdevik/iwonder-repo/main/swiftgram.png",
       "tintColor": "#f36537",
       "size": 80994185
+    },
+    {
+    "name": "ESign",
+    "bundleIdentifier": "p3.xyz.yyyue.esign",
+    "developerName": "yyy",
+    "version": "5.0.2",
+    "versionDate": "2024-01-28",
+    "versionDescription": "еба он старый",
+    "downloadURL": "https://pan.yyyue.xyz/d/esign/esign_5.0.2_unsigned.ipa",
+    "localizedDescription": "Старый добрый установщик приложений через сертификат. Не рекомендуется использовать на iOS 26.",
+    "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
+    "tintColor": "#018084",
+    "isLanZouCloud": 0,
+    "size": 7206362,
+    "type": 1
     }
   ]
 }
