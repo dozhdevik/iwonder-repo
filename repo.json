@@ -1,79 +1,233 @@
 {
   "name": "iWonder Repo",
-  "identifier": "torg.iwndrer.repo",
   "subtitle": "Репозиторий от iwndrer.t.me",
-  "description": "ъ",
+  "description": "Ну да, это мой репозиторий. Собираюсь постепенно расширять.\n\nP.S. На кнопке \"Patreon\" ссылка в CryptoBot для поддержки меня и моей деятельности. Спасибо.",
   "iconURL": "https://raw.githubusercontent.com/dozhdevik/iwonder-repo/main/icon.png",
   "website": "https://t.me/iwndrer",
+  "patreonURL": "https://t.me/send?start=IVI0OJS2SD92",
+  "tintColor": "#58cb70",
+  "featuredApps": [
+    "thewonderofyou.Feather",
+    "ph.telegra.Telegraph"
+  ],
+  "headerURL": "https://i.imgur.com/7OU8Ndx.jpeg",
   "apps": [
     {
+      "name": "Asspp",
+      "bundleIdentifier": "wiki.qaq.Asspp",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/4JSzuKL.png",
+      "tintColor": "#2c9cfc",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/Lakr233/Asspp/releases/download/4.1.1/Asspp.ipa",
+          "size": 13600000,
+          "version": "4.1.1",
+          "buildVersion": null,
+          "date": "2026-02-19T21:00:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSLocalNetworkUsageDescription": "Asspp requires this permission to communicate with install service on your device."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Feather",
+      "bundleIdentifier": "thewonderofyou.Feather",
+      "marketplaceID": "",
+      "developerName": "Samara",
+      "subtitle": "On-device signing application",
+      "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
+      "iconURL": "https://github.com/khcrysalis/Feather/blob/v1.x/iOS/Resources/Icons/Main/Mac@3x.png?raw=true",
+      "tintColor": "#848ef9",
+      "category": "utilities",
+      "screenshots": [
+        "https://github.com/khcrysalis/Feather/blob/v1.x/Images/Library.png?raw=true",
+        "https://github.com/khcrysalis/Feather/blob/v1.x/Images/Repos.png?raw=true",
+        "https://github.com/khcrysalis/Feather/blob/v1.x/Images/Sign.png?raw=true",
+        "https://github.com/khcrysalis/Feather/blob/v1.x/Images/Store.png?raw=true"
+      ],
+      "versions": [
+        {
+          "version": "2.8.2",
+          "date": "2026-04-22T09:18:46Z",
+          "localizedDescription": "First AltStore release!",
+          "downloadURL": "https://github.com/CLARATION/Feather/releases/download/v2.8.2/Feather.ipa",
+          "size": 12598584,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
       "name": "Whitegram",
-      "bundleIdentifier": "the.whitegram.app",
+      "bundleIdentifier": "ph.telegra.Telegraph",
+      "marketplaceID": "",
       "developerName": "heypain",
-      "version": "5.1",
-      "versionDate": "2026-05-26",
-      "versionDescription": "https://t.me/whitegramrelease/8",
-      "downloadURL": "https://github.com/dozhdevik/whitegram/releases/download/release/wg5.1.ipa",
-      "localizedDescription": "Модифицированная версия клиента Telegram.",
-      "iconURL": "https://raw.githubusercontent.com/dozhdevik/whitegram/main/icon.png",
-      "tintColor": "#55a7e3",
-      "size": 159606444
+      "subtitle": "Мод на Telegram аля аюграм",
+      "localizedDescription": "Модифицированная версия клиента Telegram с функциями из не менее популярного AyuGram для Android.",
+      "iconURL": "https://i.imgur.com/W5syosY.png",
+      "tintColor": "#74848a",
+      "category": "social",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "5.1",
+          "date": "2026-05-26",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/dozhdevik/whitegram/releases/download/release/wg5.1.ipa",
+          "size": 159606444,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "We need this so that you can take and share photos and videos.",
+          "NSContactsUsageDescription": "Telegram stores your contacts heavily encrypted in the cloud to let you connect with your friends across all your devices.",
+          "NSFaceIDUsageDescription": "You can use Face ID to unlock the app.",
+          "NSLocationAlwaysUsageDescription": "When you send your location to your friends, Telegram needs access to show them a map. You also need this to send locations from an Apple Watch.",
+          "NSLocationWhenInUseUsageDescription": "When you send your location to your friends, Telegram needs access to show them a map.",
+          "NSMicrophoneUsageDescription": "We need this so that you can record and share voice messages and videos with sound.",
+          "NSMotionUsageDescription": "When you send your location to your friends, Telegram needs access to show them a map.",
+          "NSPhotoLibraryAddUsageDescription": "We need this so that you can share photos and videos from your photo library.",
+          "NSPhotoLibraryUsageDescription": "We need this so that you can share photos and videos from your photo library.",
+          "NSSiriUsageDescription": "You can use Siri to send messages.",
+          "NSSpeechRecognitionUsageDescription": "We need this to transcribe audio messages on your request."
+        }
+      },
+      "patreon": {}
     },
     {
       "name": "StikDebug",
       "bundleIdentifier": "com.stik.stikdebug",
+      "marketplaceID": "",
       "developerName": "StephenDev0",
       "subtitle": "Активатор JIT прямо на устройстве и мультитул.",
-      "version": "3.1.3",
-      "versionDate": "2026-05-18",
-      "versionDescription": "Багфиксы",
-      "downloadURL": "https://github.com/StephenDev0/StikDebug/releases/download/3.1.3/StikDebug-3.1.3.ipa",
       "localizedDescription": "Активатор JIT прямо на устройстве и мультитул для iOS 17.4+ с помощью idevice. Внимание: нужен LocalDevVPN, не может быть использован внутри LiveContainer для включения JIT в том же контейнере.",
       "iconURL": "https://github.com/StephenDev0/StikDebug/blob/main/assets/StikDebug.png?raw=true",
       "tintColor": "#3B86F7",
-      "size": 11996559
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "3.1.3",
+          "date": "2026-05-18",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/StephenDev0/StikDebug/releases/download/3.1.3/StikDebug-3.1.3.ipa",
+          "size": 11996559,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     },
     {
       "name": "EnsWilde",
       "bundleIdentifier": "com.yangjiii.EnsWilde",
+      "marketplaceID": "",
       "developerName": "yangjiii",
-      "version": "3.1.3",
-      "versionDate": "2026-05-26",
-      "versionDescription": "Обновление интерфейса",
-      "downloadURL": "https://github.com/dozhdevik/iwonder-repo/releases/download/enswilde/EnsWilde.3.1.3.ipa",
+      "subtitle": "Мобильный Nugget на iOS 26.1 и ниже",
       "localizedDescription": "Редактор mobilegestalt.",
       "iconURL": "https://raw.githubusercontent.com/dozhdevik/iwonder-repo/main/enswilde.png",
       "tintColor": "#404040",
-      "size": 15085744
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "3.1.3",
+          "date": "2026-05-26",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/dozhdevik/iwonder-repo/releases/download/enswilde/EnsWilde.3.1.3.ipa",
+          "size": 15085744,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     },
     {
       "name": "Swiftgram",
       "bundleIdentifier": "app.swiftgram.ios",
+      "marketplaceID": "",
       "developerName": "Akentech Ltd",
       "subtitle": "Кастом. клиент Telegram + Lead",
-      "version": "12.7",
-      "versionDate": "2026-05-26",
-      "versionDescription": "Добавление функционала из Telegram 12.7",
-      "downloadURL": "https://github.com/dozhdevik/iwonder-repo/releases/download/swiftgram/sg12.7.ipa",
       "localizedDescription": "Кастомный клиент Telegram, официально доступный в App Store, а также интегрированный твик Lead с сохранением удалнных сообщений",
-      "iconURL": "https://raw.githubusercontent.com/dozhdevik/iwonder-repo/main/swiftgram.png",
+      "iconURL": "https://i.imgur.com/UZoC20x.png",
       "tintColor": "#f36537",
-      "size": 80994185
+      "category": "social",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "12.7",
+          "date": "2026-05-26",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/dozhdevik/iwonder-repo/releases/download/swiftgram/sg12.7.ipa",
+          "size": 80994185,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     },
     {
-    "name": "ESign",
-    "bundleIdentifier": "p3.xyz.yyyue.esign",
-    "developerName": "yyy",
-    "version": "5.0.2",
-    "versionDate": "2024-01-28",
-    "versionDescription": "еба он старый",
-    "downloadURL": "https://pan.yyyue.xyz/d/esign/esign_5.0.2_unsigned.ipa",
-    "localizedDescription": "Старый добрый установщик приложений через сертификат. Не рекомендуется использовать на iOS 26.",
-    "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
-    "tintColor": "#018084",
-    "isLanZouCloud": 0,
-    "size": 7206362,
-    "type": 1
+      "name": "ESign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "marketplaceID": "",
+      "developerName": "yyy",
+      "subtitle": "Установщик сертификатом для iOS 11-18",
+      "localizedDescription": "Старый добрый установщик приложений через сертификат. Не рекомендуется использовать на iOS 26.",
+      "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
+      "tintColor": "#018084",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "5.0.2",
+          "date": "2024-01-28",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://pan.yyyue.xyz/d/esign/esign_5.0.2_unsigned.ipa",
+          "size": 7206362,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     }
-  ]
+  ],
+  "news": []
 }
