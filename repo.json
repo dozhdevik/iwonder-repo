@@ -24,9 +24,9 @@
       "bundleIdentifier": "com.stik.stikdebug",
       "developerName": "StephenDev0",
       "subtitle": "Активатор JIT прямо на устройстве и мультитул.",
-      "version": "1.0",
-      "versionDate": "2026-05-26",
-      "versionDescription": "Релиз",
+      "version": "3.1.3",
+      "versionDate": "2026-05-18",
+      "versionDescription": "Багфиксы",
       "downloadURL": "https://github.com/StephenDev0/StikDebug/releases/download/3.1.3/StikDebug-3.1.3.ipa",
       "localizedDescription": "Активатор JIT прямо на устройстве и мультитул для iOS 17.4+ с помощью idevice. Внимание: нужен LocalDevVPN, не может быть использован внутри LiveContainer для включения JIT в том же контейнере.",
       "iconURL": "https://github.com/StephenDev0/StikDebug/blob/main/assets/StikDebug.png?raw=true",
@@ -39,12 +39,26 @@
       "developerName": "yangjiii",
       "version": "3.1.3",
       "versionDate": "2026-05-26",
-      "versionDescription": "Обновление EnsWilde",
+      "versionDescription": "Обновление интерфейса",
       "downloadURL": "https://github.com/dozhdevik/iwonder-repo/releases/download/enswilde/EnsWilde.3.1.3.ipa",
       "localizedDescription": "Редактор mobilegestalt.",
       "iconURL": "https://raw.githubusercontent.com/dozhdevik/iwonder-repo/main/enswilde.png",
       "tintColor": "#404040",
       "size": 15085744
+    },
+        {
+      "name": "Swiftgram",
+      "bundleIdentifier": "app.swiftgram.ios",
+      "developerName": "Akentech Ltd",
+      "subtitle": "Кастомный клиент Telegram + Lead",
+      "version": "12.7",
+      "versionDate": "2026-05-26",
+      "versionDescription": "Добавление функционала из Telegram 12.7",
+      "downloadURL": "https://github.com/dozhdevik/iwonder-repo/releases/download/swiftgram/sg12.7.ipa",
+      "localizedDescription": "Кастомный клиент Telegram, официально доступный в App Store, а также интегрированный твик Lead с сохранением удалнных сообщений",
+      "iconURL": "https://raw.githubusercontent.com/dozhdevik/iwonder-repo/main/swiftgram.png",
+      "tintColor": "#f36537",
+      "size": 80994185
     }
   ]
 }
