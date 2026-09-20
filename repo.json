@@ -13,37 +13,6 @@
   "headerURL": "https://i.imgur.com/7OU8Ndx.jpeg",
   "apps": [
     {
-      "name": "Asspp",
-      "bundleIdentifier": "wiki.qaq.Asspp",
-      "marketplaceID": "",
-      "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
-      "iconURL": "https://i.imgur.com/4JSzuKL.png",
-      "tintColor": "#2c9cfc",
-      "category": "utilities",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/Lakr233/Asspp/releases/download/4.1.1/Asspp.ipa",
-          "size": 13600000,
-          "version": "4.1.1",
-          "buildVersion": null,
-          "date": "2026-02-19T21:00:00+03:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAccentColorName": "AccentColor",
-          "NSLocalNetworkUsageDescription": "Asspp requires this permission to communicate with install service on your device."
-        }
-      },
-      "patreon": {}
-    },
-    {
       "name": "Feather",
       "bundleIdentifier": "thewonderofyou.Feather",
       "marketplaceID": "",
@@ -63,8 +32,8 @@
         {
           "version": "2.8.2",
           "date": "2026-04-22T09:18:46Z",
-          "localizedDescription": "First AltStore release!",
-          "downloadURL": "https://github.com/CLARATION/Feather/releases/download/v2.8.2/Feather.ipa",
+          "localizedDescription": "vsem privet",
+          "downloadURL": "https://github.com/claration/feather/releases/download/v2.9.0/Feather.ipa",
           "size": 12598584,
           "buildVersion": null,
           "minOSVersion": null
@@ -78,24 +47,24 @@
     },
     {
       "name": "Whitegram",
-      "bundleIdentifier": "ph.telegra.Telegraph",
+      "bundleIdentifier": "the.whitegram.app",
       "marketplaceID": "",
       "developerName": "heypain",
-      "subtitle": "Мод на Telegram аля аюграм",
-      "localizedDescription": "Модифицированная версия клиента Telegram с функциями из не менее популярного AyuGram для Android.",
-      "iconURL": "https://i.imgur.com/W5syosY.png",
+      "subtitle": "Мод на Telegram с доп. функциями",
+      "localizedDescription": "Модифицированная версия клиента Telegram с функциями аюграма и широкой кастомизацией",
+      "iconURL": "https://github.com/dozhdevik/iwonder-repo/blob/adce0c16458db3fd74f0ddb0b7e2e093d8caa2a3/wg1.jpg",
       "tintColor": "#74848a",
       "category": "social",
       "screenshots": [],
       "versions": [
         {
-          "version": "5.1",
-          "date": "2026-05-26",
-          "localizedDescription": "New release!",
-          "downloadURL": "https://github.com/dozhdevik/whitegram/releases/download/release/wg5.1.ipa",
-          "size": 159606444,
-          "buildVersion": null,
-          "minOSVersion": null
+          "version": "7.0",
+          "date": "2026-09-07",
+          "localizedDescription": "можно мне это не писать? спасибо",
+          "downloadURL": "https://github.com/dozhdevik/iwonder-repo/releases/download/wg/wg7.ipa",
+          "size": 134706029,
+          "buildVersion": "12.9.2",
+          "minOSVersion": "13.0"
         }
       ],
       "appPermissions": {
@@ -117,78 +86,22 @@
       "patreon": {}
     },
     {
-      "name": "StikDebug",
-      "bundleIdentifier": "com.stik.stikdebug",
-      "marketplaceID": "",
-      "developerName": "StephenDev0",
-      "subtitle": "Активатор JIT прямо на устройстве и мультитул.",
-      "localizedDescription": "Активатор JIT прямо на устройстве и мультитул для iOS 17.4+ с помощью idevice. Внимание: нужен LocalDevVPN, не может быть использован внутри LiveContainer для включения JIT в том же контейнере.",
-      "iconURL": "https://github.com/StephenDev0/StikDebug/blob/main/assets/StikDebug.png?raw=true",
-      "tintColor": "#3B86F7",
-      "category": "utilities",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "3.1.3",
-          "date": "2026-05-18",
-          "localizedDescription": "New release!",
-          "downloadURL": "https://github.com/StephenDev0/StikDebug/releases/download/3.1.3/StikDebug-3.1.3.ipa",
-          "size": 11996559,
-          "buildVersion": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "EnsWilde",
-      "bundleIdentifier": "com.yangjiii.EnsWilde",
-      "marketplaceID": "",
-      "developerName": "yangjiii",
-      "subtitle": "Мобильный Nugget на iOS 26.1 и ниже",
-      "localizedDescription": "Редактор mobilegestalt.",
-      "iconURL": "https://raw.githubusercontent.com/dozhdevik/iwonder-repo/main/enswilde.png",
-      "tintColor": "#404040",
-      "category": "utilities",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "3.1.3",
-          "date": "2026-05-26",
-          "localizedDescription": "New release!",
-          "downloadURL": "https://github.com/dozhdevik/iwonder-repo/releases/download/enswilde/EnsWilde.3.1.3.ipa",
-          "size": 15085744,
-          "buildVersion": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
       "name": "Swiftgram",
       "bundleIdentifier": "app.swiftgram.ios",
       "marketplaceID": "",
       "developerName": "Akentech Ltd",
-      "subtitle": "Кастом. клиент Telegram + Lead",
-      "localizedDescription": "Кастомный клиент Telegram, официально доступный в App Store, а также интегрированный твик Lead с сохранением удалнных сообщений",
+      "subtitle": "Кастом. клиент Telegram + MXGram",
+      "localizedDescription": "Кастомный клиент Telegram c интегрированным твик MXGram с сохранением удалнных сообщений",
       "iconURL": "https://i.imgur.com/UZoC20x.png",
       "tintColor": "#f36537",
       "category": "social",
       "screenshots": [],
       "versions": [
         {
-          "version": "12.7",
-          "date": "2026-05-26",
+          "version": "12.9.2",
+          "date": "2026-08-23",
           "localizedDescription": "New release!",
-          "downloadURL": "https://github.com/dozhdevik/iwonder-repo/releases/download/swiftgram/sg12.7.ipa",
+          "downloadURL": "https://github.com/dozhdevik/iwonder-repo/releases/download/sg/sg12.9.2.ipa",
           "size": 80994185,
           "buildVersion": null,
           "minOSVersion": null
