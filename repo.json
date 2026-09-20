@@ -1,6 +1,6 @@
 {
   "name": "iWonder Repo",
-  "subtitle": "Репозиторий от iwndrer.t.me",
+  "subtitle": "Репозиторий",
   "description": "Ну да, это мой репозиторий. Собираюсь постепенно расширять.\n\nP.S. На кнопке \"Patreon\" ссылка в CryptoBot для поддержки меня и моей деятельности. Спасибо.",
   "iconURL": "https://raw.githubusercontent.com/dozhdevik/iwonder-repo/main/icon.png",
   "website": "https://t.me/iwndrer",
@@ -8,14 +8,13 @@
   "tintColor": "#58cb70",
   "featuredApps": [
     "thewonderofyou.Feather",
-    "ph.telegra.Telegraph"
+    "the.whitegram.app"
   ],
   "headerURL": "https://i.imgur.com/7OU8Ndx.jpeg",
   "apps": [
     {
       "name": "Feather",
       "bundleIdentifier": "thewonderofyou.Feather",
-      "marketplaceID": "",
       "developerName": "Samara",
       "subtitle": "On-device signing application",
       "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
@@ -31,35 +30,32 @@
       "versions": [
         {
           "version": "2.8.2",
-          "date": "2026-04-22T09:18:46Z",
+          "date": "2026-04-22T12:18:46+03:00",
           "localizedDescription": "vsem privet",
           "downloadURL": "https://github.com/claration/feather/releases/download/v2.9.0/Feather.ipa",
           "size": 12598584,
-          "buildVersion": null,
-          "minOSVersion": null
+          "buildVersion": "idk"
         }
       ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      },
-      "patreon": {}
+      }
     },
     {
       "name": "Whitegram",
       "bundleIdentifier": "the.whitegram.app",
-      "marketplaceID": "",
       "developerName": "heypain",
       "subtitle": "Мод на Telegram с доп. функциями",
-      "localizedDescription": "Модифицированная версия клиента Telegram с функциями аюграма и широкой кастомизацией",
-      "iconURL": "https://github.com/dozhdevik/iwonder-repo/blob/adce0c16458db3fd74f0ddb0b7e2e093d8caa2a3/wg1.jpg",
+      "localizedDescription": "Модифицированная версия клиента Telegram с расширенными функциями и широкой кастомизацией",
+      "iconURL": "https://github.com/dozhdevik/iwonder-repo/blob/main/wg1.jpg?raw=true",
       "tintColor": "#74848a",
       "category": "social",
       "screenshots": [],
       "versions": [
         {
           "version": "7.0",
-          "date": "2026-09-07",
+          "date": "2026-09-07T00:00:00+03:00",
           "localizedDescription": "можно мне это не писать? спасибо",
           "downloadURL": "https://github.com/dozhdevik/iwonder-repo/releases/download/wg/wg7.ipa",
           "size": 134706029,
@@ -82,13 +78,11 @@
           "NSSiriUsageDescription": "You can use Siri to send messages.",
           "NSSpeechRecognitionUsageDescription": "We need this to transcribe audio messages on your request."
         }
-      },
-      "patreon": {}
+      }
     },
     {
       "name": "Swiftgram",
       "bundleIdentifier": "app.swiftgram.ios",
-      "marketplaceID": "",
       "developerName": "Akentech Ltd",
       "subtitle": "Кастом. клиент Telegram + MXGram",
       "localizedDescription": "Кастомный клиент Telegram c интегрированным твик MXGram с сохранением удалнных сообщений",
@@ -99,24 +93,21 @@
       "versions": [
         {
           "version": "12.9.2",
-          "date": "2026-08-23",
+          "date": "2026-08-23T00:00:00+03:00",
           "localizedDescription": "New release!",
           "downloadURL": "https://github.com/dozhdevik/iwonder-repo/releases/download/sg/sg12.9.2.ipa",
           "size": 80994185,
-          "buildVersion": null,
-          "minOSVersion": null
+          "buildVersion": "12.9.2"
         }
       ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      },
-      "patreon": {}
+      }
     },
     {
       "name": "ESign",
       "bundleIdentifier": "p3.xyz.yyyue.esign",
-      "marketplaceID": "",
       "developerName": "yyy",
       "subtitle": "Установщик сертификатом для iOS 11-18",
       "localizedDescription": "Старый добрый установщик приложений через сертификат. Не рекомендуется использовать на iOS 26.",
@@ -127,20 +118,43 @@
       "versions": [
         {
           "version": "5.0.2",
-          "date": "2024-01-28",
+          "date": "2024-01-28T00:00:00+03:00",
           "localizedDescription": "New release!",
           "downloadURL": "https://pan.yyyue.xyz/d/esign/esign_5.0.2_unsigned.ipa",
           "size": 7206362,
-          "buildVersion": null,
-          "minOSVersion": null
+          "buildVersion": "я че емеля"
         }
       ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      },
-      "patreon": {}
+      }
+    },
+    {
+      "name": "GTok (TikTok Ghost)",
+      "bundleIdentifier": "com.zhiliaoapp.musicallyy",
+      "developerName": "bytedance",
+      "localizedDescription": "Модифицированная версия TikTok",
+      "iconURL": "https://play-lh.googleusercontent.com/U07AzIaLq2iMqMCMtnM5iiSrzy7__SmOkD5qeH1vWy745-0rCv6LbSRuyjlDN-4s8EDW1UkHJPrrpd5jYNNkgA=w480-h960-rw",
+      "tintColor": "#000000",
+      "category": "social",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.0",
+          "buildVersion": "46.7.0",
+          "date": "2026-09-19T11:48:00+03:00",
+          "downloadURL": "https://github.com/dozhdevik/iwonder-repo/releases/download/gtt/gtok2.ipa",
+          "size": 453339287,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ],
-  "news": []
+  "news": [],
+  "nsfw": false
 }
